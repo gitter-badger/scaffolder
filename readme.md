@@ -1,4 +1,6 @@
 # Laravel scaffolder
+
+[![Join the chat at https://gitter.im/mpaleo/scaffolder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mpaleo/scaffolder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Scaffolder for laravel](https://cloud.githubusercontent.com/assets/5132565/11066969/17feb094-87a9-11e5-96cb-1402e4c7aaca.png)
 [![Software license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Quality score](https://img.shields.io/scrutinizer/g/mpaleo/scaffolder.svg?style=flat-square)](https://scrutinizer-ci.com/g/mpaleo/scaffolder)
